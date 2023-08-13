@@ -1,7 +1,5 @@
 # Hi, [I am Martin](https://github.com/mnin) :wave:
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/mnin?label=Follow&style=social)](https://twitter.com/mnin)
-
 <!--
 **mnin/mnin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
